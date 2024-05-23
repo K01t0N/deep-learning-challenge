@@ -39,3 +39,5 @@ Model 3 is a variation on Model 2, in which all aspects are the same except that
 ## Conclusion
 
 Overall, none of these models really performed exceptionally well with trying to capture the nuances of the data. Underfitting was a major issue when training the models. I would recommend training this data on a random forest algorithm. The advantage to a random forest is that feature importances can be viewed, allowing further analysis of what inputs are helping or hurting the model.
+
+Data credit: "IRS. Tax Exempt Organization Search Bulk Data Downloads."
